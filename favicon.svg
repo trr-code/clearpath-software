@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><rect width="40" height="40" rx="10" fill="#153b30"/><path d="M10 30V10h20M10 30l20-20M20 30h10V20" fill="none" stroke="#d8ed8a" stroke-width="3"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <rect width="40" height="40" rx="10" fill="#153b30" />
+  <path
+    d="M10 30V10h20M10 30l20-20M20 30h10V20"
+    fill="none"
+    stroke="#d8ed8a"
+    stroke-width="3"
+  />
+</svg>
