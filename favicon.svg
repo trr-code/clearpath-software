@@ -1,9 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
-  <rect width="40" height="40" rx="10" fill="#153b30" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="favicon-title">
+  <title id="favicon-title">ClearPath Software</title>
+  <rect width="64" height="64" rx="14" fill="#f8f8f0" />
+  <!-- The a from Path, simplified for a browser-tab icon. -->
   <path
-    d="M10 30V10h20M10 30l20-20M20 30h10V20"
-    fill="none"
-    stroke="#d8ed8a"
-    stroke-width="3"
+    d="M15 21C19 14 26 11 35 11C48 11 54 18 54 30V53H43V49C39 53 34 55 27 55C16 55 10 49 10 40C10 30 18 25 31 25H43C42 21 39 19 34 19C29 19 25 21 22 25ZM43 34H32C25 34 21 36 21 40C21 44 24 46 29 46C37 46 43 42 43 36Z"
+    fill="#173c30"
+    fill-rule="evenodd"
+  />
+  <!-- A clear rising path through the letter. -->
+  <path
+    d="M9 53C21 35 37 26 56 23L56 29C38 34 28 42 22 53Z"
+    fill="#a3cb55"
+    stroke="#f8f8f0"
+    stroke-width="2"
+    stroke-linejoin="round"
   />
 </svg>
